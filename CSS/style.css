@@ -48,3 +48,12 @@ a, a:hover {
     text-decoration: none;
     color: unset
 }
+
+.dsmovie-contact-container {
+    display: flex;
+    align-items: center;
+}
+
+.dsmovie-contact-container img {
+    margin-right: 10px;
+}
